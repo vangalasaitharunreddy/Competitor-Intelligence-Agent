@@ -1,0 +1,6 @@
+{
+  "name": "CompetitorLens",
+  "description": "Competitive Intelligence That Remembers — Observe, remember, compare across time, detect strategic patterns, and explain with evidence.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
